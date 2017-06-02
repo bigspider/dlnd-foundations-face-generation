@@ -1,1 +1,1 @@
-# dlnd-foundations-face-generation
+Project 5 of the "Deep Learning: Foundations" Nanodegree at Udacity. [Here](https://github.com/udacity/deep-learning/tree/master/face_generation "Face generation") is the original project's repository.
